@@ -45,7 +45,7 @@
         },
         {
             "chainId": 31611,
-            "address": "0xBbc4b1803a47122337BDBe4f542C2A78398424F1",
+            "address": "0x5894467E1BAD23400a862d97d1583556deE35A00",
             "name": "Wrapped BTC",
             "symbol": "WBTC",
             "decimals": 18,
@@ -58,6 +58,14 @@
             "symbol": "USDT",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+        },
+        {
+            "chainId": 31611,
+            "address": "0x5b2265a1f833a1792cF32C8A289D8986ca7Ed469",
+            "name": "Ether",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
         },
         {
             "chainId": 1,
